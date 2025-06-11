@@ -1,0 +1,226 @@
+{
+  "navbar": {
+    "brand": "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "links": [
+      { "title": "Home", "path": "/", "id": "#home" },
+      { "title": "About", "path": "/about", "id": "#about" },
+      { "title": "Products", "path": "/products", "id": "#products" },
+      { "title": "Contact", "path": "/contact", "id": "#contact" }
+    ]
+  },
+  "carousel": [
+    {
+      "image": "https://odishabytes.com/wp-content/uploads/2023/03/Campa-relaunched-in-India.jpg",
+      "alt": "Summer Refreshment"
+    },
+    {
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2024/10/455340535/DS/YM/RK/111207878/prod-20241001-2053486390665150004328876-jpg-1000x1000.jpg",
+      "alt": "New Flavors"
+    },
+    {
+      "image": "https://5.imimg.com/data5/IOS/Default/2024/1/378110913/JI/EZ/NL/203070295/product-jpeg-1000x1000.png",
+      "alt": "Zero Sugar Collection"
+    }
+  ],
+  "products": [
+    {
+      "flavour": "Orange",
+      "sizes": [
+        { "size": "200ml", "price": 20 },
+        { "size": "500ml", "price": 40 },
+        { "size": "1L", "price": 60 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.3vRWOTi4biNqu71Hvt75sQAAAA?w=115&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://th.bing.com/th/id/OIP.sG0QOeyEsKSybeIrbBdMPQHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      ]
+    },
+    {
+      "flavour": "Mango",
+      "sizes": [
+        { "size": "200ml", "price": 25 },
+        { "size": "500ml", "price": 45 },
+        { "size": "1L", "price": 65 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      ]
+    },
+    {
+      "flavour": "Lemon",
+      "sizes": [
+        { "size": "200ml", "price": 18 },
+        { "size": "500ml", "price": 35 },
+        { "size": "1L", "price": 55 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://th.bing.com/th/id/OIP.ZdAcPY1VO9UVj2_n-KYh0gHaJg?w=145&h=191&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "flavour": "Strawberry",
+      "sizes": [
+        { "size": "200ml", "price": 22 },
+        { "size": "500ml", "price": 42 },
+        { "size": "1L", "price": 62 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.9bJ82SFJYITcrId1-7xEoQHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://th.bing.com/th/id/OIP.9bJ82SFJYITcrId1-7xEoQHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      ]
+    },
+    {
+      "flavour": "Cola",
+      "sizes": [
+        { "size": "200ml", "price": 20 },
+        { "size": "500ml", "price": 38 },
+        { "size": "1L", "price": 58 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.xI6aCxgDR2Cxufce8_7rmQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain",
+        "https://th.bing.com/th/id/OIP.YQFoKsq8HF4H6V42li6dcAHaKS?w=115&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      ]
+    },
+    {
+      "flavour": "Zero Sugar",
+      "sizes": [
+        { "size": "200ml", "price": 20 },
+        { "size": "500ml", "price": 40 },
+        { "size": "1L", "price": 60 }
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.9bJ82SFJYITcrId1-7xEoQHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://th.bing.com/th/id/OIP.9bJ82SFJYITcrId1-7xEoQHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      ]
+    }
+  ],
+  "features": [
+    { "title": "Original", "description": "The classic taste you love" },
+    { "title": "Cherry Blast", "description": "Fruity and refreshing" },
+    { "title": "Zero Sugar", "description": "All taste, no sugar" }
+  ],
+  "about": {
+    "title": "About Camp Cola",
+    "image": "https://5.imimg.com/data5/IOS/Default/2024/1/378110913/JI/EZ/NL/203070295/product-jpeg-1000x1000.png",
+    "content": "Since 1950, Camp Cola has been refreshing the world with its unique blend of flavors. Our secret recipe combines premium ingredients with innovative brewing techniques to deliver the perfect balance of sweetness and fizz.",
+    "highlights": [
+      "Family-owned business since 1950",
+      "100% natural ingredients",
+      "Environmentally friendly production",
+      "Award-winning flavors"
+    ]
+  },
+  "contact": {
+    "address": "123 Refreshment Road, Cola City, CC 45678",
+    "phone": "(555) 123-4567",
+    "email": "contact@campcola.com"
+  },
+  "footer": {
+    "logo": "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "motto": "Refreshing Moments, Always!",
+    "socials": [
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com/campcola",
+        "iconPath": "M22 12a10 10 0 1 0-11.5 9.9v-7H8v-3h2.5V9.5a3.5 3.5 0 0 1 3.7-3.8c1.1 0 2.3.2 2.3.2v2.5h-1.3c-1.3 0-1.7.8-1.7 1.6V12H18l-.5 3h-2.6v7A10 10 0 0 0 22 12z"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/campcola",
+        "iconPath": "M23 3a10.9 10.9 0 0 1-3.14 1.53..."
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/campcola",
+        "iconPath": "M7.75 2h8.5A5.75 5.75 0 0122 7.75..."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Company",
+        "links": [
+          { "name": "About Us", "path": "/about", "id": "#about" },
+          { "name": "News", "path": "/news", "id": "#news" }
+        ]
+      },
+      {
+        "title": "Products",
+        "links": [
+          { "name": "Flavors", "path": "/products", "id": "#products" },
+          { "name": "Sizes", "path": "/products#sizes", "id": "#products" },
+          { "name": "Zero Sugar", "path": "/products#zero-sugar", "id": "#products" }
+        ]
+      }
+    ],
+    "copyright": "© 2023 Camp Cola",
+    "legal": "All rights reserved. Camp Cola is a registered trademark of Camp Cola Inc."
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "icon": "rocket",
+        "title": "Beverage Distribution",
+        "description": "We efficiently distribute Campa Cola products across urban and rural regions through our vast logistics network."
+      },
+      {
+        "icon": "code",
+        "title": "Retail & Vending Partnerships",
+        "description": "Partnering with retail outlets, grocery stores, and vending services to ensure Campa Cola is always within reach."
+      },
+      {
+        "icon": "mobile",
+        "title": "Online Ordering & Delivery",
+        "description": "Customers can order Campa Cola drinks online with fast and convenient home delivery services."
+      },
+      {
+        "icon": "design",
+        "title": "Event Sponsorship & Branding",
+        "description": "We collaborate with events and organizations to promote Campa Cola through brand activations and sponsorships."
+      }
+    ]
+  },
+  "newsData": {
+    "title": "Latest Updates",
+    "id": "#news",
+    "items": [
+      {
+        "date": "March 15, 2024",
+        "title": "New Product Launch Announcement",
+        "excerpt": "Discover our latest flavor innovation...",
+        "image": "https://th.bing.com/th/id/OIP.xI6aCxgDR2Cxufce8_7rmQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain",
+        "id": "#news1"
+      },
+      {
+        "date": "April 2, 2024",
+        "title": "Camp Cola Wins Taste Test Award",
+        "excerpt": "We’ve been voted the best in taste by a national panel...",
+        "image": "https://th.bing.com/th/id/OIP.xI6aCxgDR2Cxufce8_7rmQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain",
+        "id": "#news2"
+      },
+      {
+        "date": "April 18, 2024",
+        "title": "Sustainability Milestone Achieved",
+        "excerpt": "Camp Cola bottles now made with 100% recycled materials...",
+        "image": "https://th.bing.com/th/id/OIP.xI6aCxgDR2Cxufce8_7rmQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain",
+        "id": "#news3"
+      },
+      {
+        "date": "May 1, 2024",
+        "title": "Camp Cola Expands to New Markets",
+        "excerpt": "Now available in 5 new countries across Asia...",
+        "image": "https://th.bing.com/th/id/OIP.4uucHgI_huHF1FJynDZRlwHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "id": "#news4"
+      },
+      {
+        "date": "May 20, 2024",
+        "title": "Summer Campaign: Chill with Camp",
+        "excerpt": "Exciting contests and giveaways all summer long...",
+        "image": "https://th.bing.com/th/id/OIP.YQFoKsq8HF4H6V42li6dcAHaKS?w=115&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "id": "#news5"
+      }
+    ]
+  }
+}
